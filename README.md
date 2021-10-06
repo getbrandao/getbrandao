@@ -28,7 +28,6 @@ const getbrandao = {
     MySql,
     PostgreSQL,
     Mongo,
-    Laravel,
   ],
   askMeAbout: ["dev", "tech", "linux", "unix", "gamer", "coffee"],
   architecture: ["serverless", "pwa", "spa", "microservices"],
